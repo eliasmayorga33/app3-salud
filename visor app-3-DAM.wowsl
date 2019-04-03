@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>21</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor app-3-DAM</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>tv,cube,book,domino</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/galaxy/</ImageTemplate>
+            <ImageTemplateName>Galaxy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/DAM/2do parcial/aplicaciones/app3-salud/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>E:/DAM/2do parcial/aplicaciones/app3-salud</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto Condensed</TemplateFont>
+            <TemplateName>galaxy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-1.png</url>
+                <title>img-1</title>
+                <filesize>202227</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-10.jpg</url>
+                <title>img-10</title>
+                <filesize>5235</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-11.jpg</url>
+                <title>img-11</title>
+                <filesize>38134</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-2.jpg</url>
+                <title>img-2</title>
+                <filesize>6654</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-3.jpg</url>
+                <title>img-3</title>
+                <filesize>64954</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-4.jpg</url>
+                <title>img-4</title>
+                <filesize>47086</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-5.jpg</url>
+                <title>img-5</title>
+                <filesize>93385</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-6.jpg</url>
+                <title>img-6</title>
+                <filesize>84786</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-7.jpg</url>
+                <title>img-7</title>
+                <filesize>139828</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-8.jpg</url>
+                <title>img-8</title>
+                <filesize>102281</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img-9.jpg</url>
+                <title>img-9</title>
+                <filesize>17678</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img001.jpg</url>
+                <title>img001</title>
+                <filesize>141285</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2do parcial/aplicaciones/app3-salud/imagenes/img002.jpg</url>
+                <title>img002</title>
+                <filesize>197073</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
